@@ -1,0 +1,41 @@
+﻿  SimpleRenderer.cpp
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Types.h(7): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Types.h(8): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Types.h(9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Types.h(930): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Types.h(946): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Types.h(953): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Display.h(161): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Display.h(163): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Display.h(165): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Display.h(172): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Display.h(201): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Display.h(203): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Display.h(205): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(31): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(46): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(212): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(221): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(234): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(276): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(286): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(288): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(299): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(309): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(311): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\Render.h(330): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+SimpleRenderer.cpp(153): warning C4244: “初始化”: 从“unsigned long”转换到“float”，可能丢失数据
+SimpleRenderer.cpp(154): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+SimpleRenderer.cpp(215): warning C4305: “+=”: 从“double”到“float”截断
+SimpleRenderer.cpp(219): warning C4305: “-=”: 从“double”到“float”截断
+SimpleRenderer.cpp(223): warning C4305: “-=”: 从“double”到“float”截断
+SimpleRenderer.cpp(227): warning C4305: “+=”: 从“double”到“float”截断
+SimpleRenderer.cpp(231): warning C4305: “+=”: 从“double”到“float”截断
+SimpleRenderer.cpp(235): warning C4305: “-=”: 从“double”到“float”截断
+  正在生成代码
+  2 of 244 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SimpleRenderer.vcxproj -> C:\Users\Atlas\Desktop\vsproj\SimpleRenderer\SimpleRenderer\Release\SimpleRenderer.exe

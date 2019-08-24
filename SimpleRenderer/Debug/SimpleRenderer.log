@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+  SimpleRenderer.cpp
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\types.h(7): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\types.h(8): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\types.h(9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\types.h(930): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\types.h(946): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\types.h(953): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\display.h(161): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\display.h(163): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\display.h(165): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\display.h(172): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\display.h(201): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\display.h(203): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\display.h(205): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(31): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(46): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(212): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(221): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(234): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(276): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(286): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(288): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(299): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(309): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(311): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\render.h(330): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\simplerenderer.cpp(153): warning C4244: “初始化”: 从“unsigned long”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\simplerenderer.cpp(154): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\simplerenderer.cpp(215): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\simplerenderer.cpp(219): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\simplerenderer.cpp(223): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\simplerenderer.cpp(227): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\simplerenderer.cpp(231): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\simplerenderer.cpp(235): warning C4305: “-=”: 从“double”到“float”截断
+  Display.cpp
+  正在生成代码...
+c:\users\atlas\desktop\vsproj\simplerenderer\simplerenderer\simplerenderer\types.h(869): warning C4715: “Triangle3d::GetUV”: 不是所有的控件路径都返回值
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+Display.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  SimpleRenderer.vcxproj -> C:\Users\Atlas\Desktop\vsproj\SimpleRenderer\SimpleRenderer\Debug\SimpleRenderer.exe
